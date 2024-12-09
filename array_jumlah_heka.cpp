@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    int angka[10]; 
+    int angka[5]; 
     int jumlah = 0; 
 
     cout << "Masukkan 10 angka integer:\n";
